@@ -11,4 +11,4 @@ client.on('message', message => {
 		message.channel.send("pong");
 	}
 });
-client.login('NzU2MjYzMDc1MDEwNTc2NDU2.X2PS3w.JVMxO54HAK-GSEIWPSj4faepdGs');
+client.login(token);
